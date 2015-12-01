@@ -6,7 +6,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Code style][standard-image]][standard-url]
 
-Shallow copy array or portion of array.
+Shallow copy of array or portion of array.
 
 ## Installation
 
