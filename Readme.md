@@ -17,15 +17,18 @@ Shallow copy array or portion of array.
 ```js
 var slice = require('@micro-js/slice')
 
+slice([1, 2], 1) // => 2
 ```
 
 ## API
 
-### slice(arg)
+### slice(array, begin, end)
 
-- `arg` -
+- `array` - source array
+- `begin` - beginning of copy
+- `end` - end of copy
 
-**Returns:**
+**Returns:** copy of array
 
 ## License
 
