@@ -10,12 +10,12 @@ Shallow copy of array or portion of array.
 
 ## Installation
 
-    $ npm install @micro-js/slice
+    $ npm install @f/slice
 
 ## Usage
 
 ```js
-var slice = require('@micro-js/slice')
+var slice = require('@f/slice')
 
 slice([1, 2], 1) // => 2
 ```
@@ -40,5 +40,5 @@ MIT
 [git-url]: https://github.com/micro-js/slice
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/slice.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/slice
+[npm-image]: https://img.shields.io/npm/v/@f/slice.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/slice

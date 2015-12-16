@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/slice",
+  "name": "@f/slice",
   "description": "Shallow copy array or portion of array.",
   "repository": "git://github.com/micro-js/slice.git",
   "version": "1.0.0",
