@@ -10,7 +10,6 @@ var test = require('tape')
  */
 
 test('should slice arguments', function (t) {
-
   t.deepEqual(toArray(1, 2), [1, 2])
   t.end()
 
